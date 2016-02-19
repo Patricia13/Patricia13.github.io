@@ -50,3 +50,9 @@ Color 1:
 Color 1:
 Color 1:
 ***********************************/
+.portrait_name{
+    background: rgba(176, 176,176, 0.7);
+}
+body {
+    background:#b1c3dd;
+}

@@ -1,3 +1,7 @@
+
+
+
+
 /*! normalize.css v3.0.2 | MIT License | git.io/normalize */
 
 /**
@@ -151,7 +155,7 @@ mark {
  */
 
 small {
-  font-size: 80%;
+  font-size: 60%;
 }
 
 /**
@@ -160,7 +164,7 @@ small {
 
 sub,
 sup {
-  font-size: 75%;
+  font-size: 65%;
   line-height: 0;
   position: relative;
   vertical-align: baseline;
